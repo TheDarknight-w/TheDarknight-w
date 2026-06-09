@@ -11,6 +11,6 @@ Currently:
 
 **Tech Stack:** Python | Docker | K8s | Terraform | AWS | Wazuh | MLflow
 
-**Latest:** Building in public → [devsecops-journey](https://github.com/YOURUSERNAME/devsecops-journey)
+**Latest:** Building in public → [devsecops-journey](https://github.com/TheDarknight-w/devsecops)
 
 📫 linkedin.com/in/thedarknight-w | joelchinta7@gmail.com
