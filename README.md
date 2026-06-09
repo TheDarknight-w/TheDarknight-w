@@ -1,4 +1,4 @@
-## Hi, I'm Joel Chintq
+## Hi, I'm Joel Chinta
 
 **DevSecOps | AI Security | Blue Team | MLOps**
 
