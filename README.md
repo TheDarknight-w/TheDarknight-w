@@ -33,6 +33,6 @@ I build automated, secure pipelines that let teams deploy high-performance model
 ---
 
 ### 🤝 Let's Connect
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+*   **LinkedIn:** [linkedin.com/in/thedarknight-w)
 *   **Email:** joelchinta7@gmail.com
 *   **Daily Log:** Check out my active building repository: [devsecops-journey](https://github.com)
