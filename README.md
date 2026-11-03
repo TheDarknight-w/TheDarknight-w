@@ -24,7 +24,7 @@ I'm currently learning and working with Python, Flask, Linux and web technologie
 - Cloud technologies
 
 ### Connect With Me
-- LinkedIn: [linkedin.com/in/thedarknight-w]
+- LinkedIn: [https://linkedin.com/in/thedarknight-w]
 - GitHub: [https://github.com/TheDarknight-w/]
 
 I'm always open to learning, collaborating and working on practical projects.
